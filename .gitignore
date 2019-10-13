@@ -1,0 +1,13 @@
+
+# Visual studio
+*.vs
+*.csproj.user
+
+
+# Bin, obj
+GoldenRatio/bin/
+GoldenRatio/obj/
+
+# Temporary files
+*~
+
